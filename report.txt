@@ -1,3 +1,2 @@
 global: 
-download void.exe
-copy /b C:\Users\%username%\AppData\Local\Temp\void.exe c:\users\%username%\desktop\virus.exe
+md GO
