@@ -1,5 +1,2 @@
-global:
-dir /s
-md 1
+global: 
 md 2
-md 3
