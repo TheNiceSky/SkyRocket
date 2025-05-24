@@ -1,7 +1,5 @@
 global: 
-md 3
-md 5
-md 8
+dir /s 
 
  
 
