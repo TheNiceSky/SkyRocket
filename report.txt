@@ -1,2 +1,2 @@
 global:
-md forza
+md ShemdegiSadguriLaiviStrimisebri
